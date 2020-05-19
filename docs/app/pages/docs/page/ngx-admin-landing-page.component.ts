@@ -64,19 +64,39 @@ export class NgxAdminLandingPageComponent implements OnDestroy, OnInit {
         filter(item => item),
         tap((item: any) => {
           switch (item.name) {
+            case 'What is ngx-admin?':
+              this.metaDataService.updateTitle('Ngx-admin - documentation');
+              this.metaDataService.updateDescription('ngx-admin is a front-end admin dashboard template based on Angular 9+, Bootstrap 4+ and Nebular');
+              this.metaDataService.updateKeywords('Ngx-admin features, Angular 9+ typescript, Bootstrap 4+ & SCSS, ngx-admin documentation');
+              break;
             case 'Installation Guidelines':
-              this.metaDataService.updateTitle(`Ngx-admin - Guideline to install.`);
+              this.metaDataService.updateTitle('Ngx-admin - Guideline to install.');
+              this.metaDataService.updateDescription(item.description);
+              this.metaDataService.updateKeywords('Ngx-admin install tools, ngx-admin versions, ngx-admin install.');
               break;
             case 'Server deployment':
+              this.metaDataService.updateTitle('Ngx-admin - Server deployment');
+              this.metaDataService.updateDescription(item.description);
+              this.metaDataService.updateKeywords('Ngx-admin server, ngx-admin server deployment');
+              break;
             case 'Theme System':
+              this.metaDataService.updateTitle('Ngx-admin - Theme System');
+              this.metaDataService.updateDescription(item.description);
+              this.metaDataService.updateKeywords('Nebular theme system, nebular components, nebular theme map, ngx-admin built-in-themes');
+              break;
             case 'Change Theme':
+              this.metaDataService.updateTitle('Ngx-admin - Change theme');
+              this.metaDataService.updateDescription(item.description);
+              this.metaDataService.updateKeywords('ngx-admin runtime theme switch, ngx-admin theme change');
+              break;
             case 'Backend integration':
-              this.metaDataService.updateTitle(`Ngx-admin - ${item.name}`);
+              this.metaDataService.updateTitle('Ngx-admin - Backend integration');
+              this.metaDataService.updateDescription(item.description);
+              this.metaDataService.updateKeywords('Ngx-admin backend integration, JSON REST server integration, angular-cli/webpack-dev-server setup, ngx-admin production setup');
               break;
             default:
               this.metaDataService.updateTitle(item.name);
           }
-          this.metaDataService.updateDescription(item.description);
         }),
         publishReplay(),
         refCount(),
