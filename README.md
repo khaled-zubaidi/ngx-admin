@@ -1,14 +1,13 @@
-# ngx-admin [<img src="https://i.imgur.com/oMcxwZ0.png" alt="Eva Design System" height="20px" />](https://hubs.ly/H0n4ZDy0) [![Build Status](https://travis-ci.org/akveo/ngx-admin.svg?branch=master)](https://travis-ci.org/akveo/ngx-admin) [![Dependency Status](https://david-dm.org/akveo/ngx-admin/status.svg)](https://david-dm.org/akveo/ng2-admin)
+# ngx-admin [<img src="https://i.imgur.com/oMcxwZ0.png" alt="Eva Design System" height="20px" />](https://eva.design?utm_campaign=eva_design%20-%20home%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=top_status_tile) [![Build Status](https://travis-ci.org/akveo/ngx-admin.svg?branch=master)](https://travis-ci.org/akveo/ngx-admin)
 
-[Who uses ngx-admin?](https://github.com/akveo/ngx-admin/issues/1645)| [Documentation](https://hubs.ly/H0n4Sfq0) | [Installation Guidelines](https://hubs.ly/H0n4Svc0)
+[Who uses ngx-admin?](https://github.com/akveo/ngx-admin/issues/1645)| [Documentation](https://akveo.github.io/ngx-admin?utm_campaign=ngx_admin%20-%20home%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=github_readme_documentation_link) | [Installation Guidelines](https://akveo.github.io/ngx-admin/docs/getting-started/what-is-ngxadmin?utm_campaign=ngx_admin%20-%20home%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=github_readme_installation_guidelines) | [Angular templates](https://www.akveo.com/templates?utm_campaign=services%20-%20github%20-%20templates&utm_source=ngx_admin&utm_medium=referral&utm_content=github%20readme%20top%20angular%20templates%20link)
 
 # New! Material theme for ngx-admin
 
-### Material admin theme is based on the most popular Angular dashboard template - [ngx-admin](https://hubs.ly/H0nJG1G0)
-### Included: Angular 9+, [Nebular](https://hubs.ly/H0nJG5g0) and [Eva design system](https://hubs.ly/H0nJGdC0). Free for personal and commercial usage.
-### Get material ngx-admin integrated with backend technology of your choice. [Check out our store](https://hubs.ly/H0n4Zvy0).
+Material admin theme is based on the most popular Angular dashboard template - [ngx-admin](https://akveo.github.io/ngx-admin?utm_campaign=ngx_admin%20-%20home%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin_material&utm_medium=referral&utm_content=github_readme)
+To use material theme checkout `feat/material-theme` branch.
 
-<a target="_blank" href="https://hubs.ly/H0nxM3b0"><img src="https://i.imgur.com/67YAlhf.png"/></a>
+Get material ngx-admin integrated with backend technology of your choice. [Check out our store](https://store.akveo.com/pages/all-collections?utm_campaign=akveo_store%20-%20all%20bundles%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral%20&utm_content=check_out_our_store).
 
 ## Key features
 
@@ -19,42 +18,37 @@
 
 ### To use material theme checkout `feat/material-theme` branch
 
-# Admin template based on Angular 9+ and <a href="https://github.com/akveo/nebular">Nebular</a>
-<a target="_blank" href="https://hubs.ly/H0n4Sw20"><img src="https://i.imgur.com/mFdqvgG.png"/></a>
+# Admin template based on Angular 10+ and <a href="https://github.com/akveo/nebular">Nebular</a>
+<a target="_blank" href="https://akveo.com/ngx-admin/pages/dashboard?theme=corporate&utm_campaign=ngx_admin%20-%20demo%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=hero_banner_corporate"><img src="https://i.imgur.com/mFdqvgG.png"/></a>
 
 ### Backend Integration Bundles
-Easy way to integrate ngx-admin with backend (.NET, Node.js, Java etc.).
+Easy way to integrate ngx-admin with any backend (PHP, .Net, .Net Core, Java etc. )
+<a href="https://store.akveo.com/pages/all-collections?utm_campaign=akveo_store%20-%20all%20bundles%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral%20&utm_content=check_out_our_store"><img src="https://i.imgur.com/qbtASmP.png"></a>
 
-<a target="_blank" href="https://hubs.ly/H0n4ZxC0">
-  <img src="https://i.imgur.com/Ywbs8cl.png"/>
-</a>
+[Check out our Store](https://store.akveo.com/pages/all-collections?utm_campaign=akveo_store%20-%20all%20bundles%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral%20&utm_content=check_out_our_store) for ready to use Backend Bundles.
 
-[Check out our Store](https://hubs.ly/H0n4Zvy0) for ready to use Backend Bundles.
+### Free Bundles
+<a href="https://store.akveo.com/products/free-angular-net-starter-dashboard?utm_campaign=akveo_store%20-%20all%20bundles%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin%20&utm_medium=referral&utm_content=.net_free_dashboard"><img src="https://i.imgur.com/NzTDxRG.png"></a>
+
+[Download ngx-admin with .net backend for FREE!](https://github.com/akveo/ngx-admin-dotnet-starter?utm_campaign=akveo_store%20-%20all%20bundles%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=.net_free_dashboard)
 
 ### With 6 stunning visual themes
 
+| <a target="_blank" href="https://www.akveo.com/ngx-admin/pages/dashboard?theme=material-dark&utm_campaign=ngx_admin%20-%20demo%20-%20ngx_admin%20docs&utm_source=ngx_admin&utm_medium=referral&utm_content=ngx_admin_material_themes_material_dark"><img src="https://i.imgur.com/67YAlhf.png"/></a> | <a target="_blank" href="https://www.akveo.com/ngx-admin/pages/dashboard?theme=material-light&utm_campaign=ngx_admin%20-%20demo%20-%20ngx_admin%20docs&utm_source=ngx_admin&utm_medium=referral&utm_content=ngx_admin_material_themes_material_light"><img src="https://i.imgur.com/aQzw0hD.png"/></a> |
+| --- | --- |
+|  Material Dark | Material Light |
 
-#### Material Dark
-<a target="_blank" href="https://hubs.ly/H0nxM3b0"><img src="https://i.imgur.com/67YAlhf.png"/></a>
+| <a target="_blank" href="https://www.akveo.com/ngx-admin/pages/dashboard?theme=dark&utm_campaign=ngx_admin%20-%20demo%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=github_readme_theme_dark"><img src="https://i.imgur.com/9UkTGgr.png"/></a> | <a target="_blank" href="https://akveo.com/ngx-admin/pages/dashboard?theme=default&utm_campaign=ngx_admin%20-%20demo%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=github_readme_theme_default"><img src="https://i.imgur.com/Kn3xDKQ.png"/></a> |
+| --- | --- |
+|  Dark| Default |
 
-#### Material Light
-<a target="_blank" href="https://hubs.ly/H0nxNmv0"><img src="https://i.imgur.com/aQzw0hD.png"/></a>
-
-#### Default
-<a target="_blank" href="https://hubs.ly/H0n4Tgv0"><img src="https://i.imgur.com/Kn3xDKQ.png"/></a>
-
-#### Dark
-<a target="_blank" href="https://hubs.ly/H0n4Th20"><img src="https://i.imgur.com/FAn5iXY.png"/></a>
-
-#### Cosmic
-<a target="_blank" href="https://hubs.ly/H0n4Tj80"><img src="https://i.imgur.com/iJu2YDF.png"/></a>
-
-#### Corporate
-<a target="_blank" href="https://hubs.ly/H0n4TDQ0"><img src="https://i.imgur.com/GpUt6NW.png"/></a>
+| <a target="_blank" href="https://www.akveo.com/ngx-admin/pages/dashboard?theme=cosmic&utm_campaign=ngx_admin%20-%20demo%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=github_readme_theme_cosmic"><img src="https://i.imgur.com/iJu2YDF.png"/></a> | <a target="_blank" href="https://www.akveo.com/ngx-admin/pages/dashboard?theme=corporate&utm_campaign=ngx_admin%20-%20demo%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=github_readme_theme_corporate"><img src="https://i.imgur.com/GpUt6NW.png"/></a> |
+| --- | --- |
+| Cosmic  | Corporate |
 
 ### What's included:
 
-- Angular 9+ & Typescript
+- Angular 10+ & Typescript
 - Bootstrap 4+ & SCSS
 - Responsive layout
 - RTL support
@@ -66,10 +60,10 @@ Easy way to integrate ngx-admin with backend (.NET, Node.js, Java etc.).
 
 ### Demo
 
-<a target="_blank" href="https://hubs.ly/H0n4Tk70">Live Demo</a>
+<a target="_blank" href="http://www.akveo.com/ngx-admin/?utm_campaign=ngx_admin%20-%20demo%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=live_demo_link">Live Demo</a>
 
 ## Documentation
-This template is using [Nebular](https://github.com/akveo/nebular) modules set, [here you can find documentation and other useful articles](https://hubs.ly/H0n4ZPt0).
+This template is using [Nebular](https://github.com/akveo/nebular) modules set, [here you can find documentation and other useful articles](https://akveo.github.io/nebular/docs/guides/install-based-on-starter-kit?utm_campaign=nebular%20-%20docs%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=documentation_useful_articles).
 
 ### Empty starter kit
 Don't need all the pages and modules and just looking for an empty starter kit for your next project? Check out our [starter-kit branch](https://github.com/akveo/ngx-admin/tree/starter-kit).
@@ -83,6 +77,7 @@ This project runs its tests on multiple desktop and mobile browsers using [Brows
 
 - [Eva Icons](https://github.com/akveo/eva-icons) - 480+ beautiful Open Source icons
 - [Nebular](https://github.com/akveo/nebular) - Angular Components, Auth and Security
+- [Akveo templates](https://www.akveo.com/templates?utm_campaign=services%20-%20github%20-%20templates&utm_source=ngx_admin&utm_medium=referral&utm_content=ngx_admin%20github%20readme%20more%20from%20akveo%20link) - 10+ Ready-to-use apps templates to speed up your apps developments
 
 ### How can I support developers?
 - Star our GitHub repo :star:
@@ -91,8 +86,8 @@ This project runs its tests on multiple desktop and mobile browsers using [Brows
 - Like our page on [Facebook](https://www.facebook.com/akveo/) :thumbsup:
 
 ### Looking for engineering services? 
-Visit [our homepage](https://hubs.ly/H0n4YJt0) or simply leave us a message to [contact@akveo.com](mailto:contact@akveo.com). We will be happy to work with you!
+Visit [our homepage](https://www.akveo.com?utm_campaign=services%20-%20akveo%20website%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=looking_for_engineering_services_visit_homepage) or simply leave us a message to [contact@akveo.com](mailto:contact@akveo.com). We will be happy to work with you!
 
 ### From Developers
-Made with :heart: by [Akveo team](https://hubs.ly/H0n4YwQ0). Follow us on [Twitter](https://twitter.com/akveo_inc) to get the latest news first!
+Made with :heart: by [Akveo team](https://www.akveo.com?utm_campaign=services%20-%20akveo%20website%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin&utm_medium=referral&utm_content=from_developers_made_by). Follow us on [Twitter](https://twitter.com/akveo_inc) to get the latest news first!
 We're always happy to receive your feedback!
